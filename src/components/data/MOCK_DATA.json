@@ -1,0 +1,1368 @@
+{
+  "studentData": [
+    {
+      "id": 1,
+      "first_name": "Pippy",
+      "last_name": "Nortunen",
+      "roll_num": 15336,
+      "dob": "16.02.2021",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 34,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Physics",
+          "marks": 49,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 5,
+          "teacher_name": "Hyman Moreby"
+        },
+        {
+          "name": "Biology",
+          "marks": 44,
+          "teacher_name": "Trenna Gerty"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Romonda",
+      "last_name": "Shiel",
+      "roll_num": 18345,
+      "dob": "18.04.2021",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 31,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Physics",
+          "marks": 1,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 79,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Maths",
+          "marks": 6,
+          "teacher_name": "Hyman Moreby"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Thaddeus",
+      "last_name": "Thon",
+      "roll_num": 12617,
+      "dob": "17.08.2020",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 5,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Physics",
+          "marks": 40,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 58,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Maths",
+          "marks": 32,
+          "teacher_name": "Imelda Nel"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Tamas",
+      "last_name": "Orys",
+      "roll_num": 17891,
+      "dob": "13.09.2020",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 11,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Physics",
+          "marks": 68,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 81,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Biology",
+          "marks": 21,
+          "teacher_name": "Kerstin Thorwarth"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Turner",
+      "last_name": "Roughey",
+      "roll_num": 11627,
+      "dob": "04.05.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 61,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Physics",
+          "marks": 5,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 16,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Biology",
+          "marks": 79,
+          "teacher_name": "Howard Oguz"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "first_name": "Asher",
+      "last_name": "Kenna",
+      "roll_num": 13774,
+      "dob": "25.06.2020",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 35,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Physics",
+          "marks": 68,
+          "teacher_name": "Hyman Moreby"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 76,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Maths",
+          "marks": 86,
+          "teacher_name": "Howard Oguz"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "first_name": "Gisela",
+      "last_name": "Cusworth",
+      "roll_num": 16098,
+      "dob": "08.03.2021",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 85,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Physics",
+          "marks": 96,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 31,
+          "teacher_name": "Hyman Moreby"
+        },
+        {
+          "name": "Biology",
+          "marks": 46,
+          "teacher_name": "Trenna Gerty"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "first_name": "Carmina",
+      "last_name": "Northridge",
+      "roll_num": 14016,
+      "dob": "21.01.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 39,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Physics",
+          "marks": 58,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 46,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Maths",
+          "marks": 26,
+          "teacher_name": "Imelda Nel"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "first_name": "Gwyneth",
+      "last_name": "Hencke",
+      "roll_num": 15536,
+      "dob": "14.05.2021",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 37,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Physics",
+          "marks": 54,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 35,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Maths",
+          "marks": 70,
+          "teacher_name": "Odelia Falkingham"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "first_name": "Matti",
+      "last_name": "Thoresby",
+      "roll_num": 10455,
+      "dob": "04.03.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 92,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Physics",
+          "marks": 69,
+          "teacher_name": "Hyman Moreby"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 85,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Maths",
+          "marks": 9,
+          "teacher_name": "Howard Oguz"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "first_name": "Timmie",
+      "last_name": "Caddan",
+      "roll_num": 11618,
+      "dob": "20.11.2020",
+      "class": "A",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 31,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Physics",
+          "marks": 57,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 8,
+          "teacher_name": "Imelda Nel"
+        },
+        {
+          "name": "Biology",
+          "marks": 93,
+          "teacher_name": "Hyman Moreby"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "first_name": "Salim",
+      "last_name": "Balcon",
+      "roll_num": 19073,
+      "dob": "08.03.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 3,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Physics",
+          "marks": 5,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 77,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Maths",
+          "marks": 76,
+          "teacher_name": "Emyle Abells"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "first_name": "Jareb",
+      "last_name": "Stener",
+      "roll_num": 16724,
+      "dob": "04.04.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 87,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Physics",
+          "marks": 32,
+          "teacher_name": "Hyman Moreby"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 66,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Maths",
+          "marks": 4,
+          "teacher_name": "Hyman Moreby"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "first_name": "Rhodie",
+      "last_name": "Mora",
+      "roll_num": 15165,
+      "dob": "30.10.2020",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 53,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Physics",
+          "marks": 11,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 39,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Maths",
+          "marks": 31,
+          "teacher_name": "Briney Incogna"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "first_name": "Ferrell",
+      "last_name": "Riceards",
+      "roll_num": 15712,
+      "dob": "04.07.2020",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 46,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Physics",
+          "marks": 27,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 30,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Maths",
+          "marks": 87,
+          "teacher_name": "Imelda Nel"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "first_name": "Catherin",
+      "last_name": "Sallnow",
+      "roll_num": 11566,
+      "dob": "09.10.2020",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 66,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Physics",
+          "marks": 98,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 19,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Maths",
+          "marks": 71,
+          "teacher_name": "Kerstin Thorwarth"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "first_name": "Melba",
+      "last_name": "Gaythwaite",
+      "roll_num": 13865,
+      "dob": "05.01.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 5,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Physics",
+          "marks": 2,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 96,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Maths",
+          "marks": 18,
+          "teacher_name": "Emyle Abells"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "first_name": "Dody",
+      "last_name": "Klimaszewski",
+      "roll_num": 17258,
+      "dob": "02.09.2020",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 33,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Physics",
+          "marks": 13,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 49,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Biology",
+          "marks": 65,
+          "teacher_name": "Odelia Falkingham"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "first_name": "Felecia",
+      "last_name": "Ashlin",
+      "roll_num": 10444,
+      "dob": "13.07.2020",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 59,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Physics",
+          "marks": 57,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 54,
+          "teacher_name": "Imelda Nel"
+        },
+        {
+          "name": "Maths",
+          "marks": 94,
+          "teacher_name": "Odelia Falkingham"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "first_name": "Dolly",
+      "last_name": "Robben",
+      "roll_num": 10792,
+      "dob": "10.03.2021",
+      "class": "A",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 23,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Physics",
+          "marks": 77,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 38,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Biology",
+          "marks": 65,
+          "teacher_name": "Julio Adcock"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "first_name": "Shaun",
+      "last_name": "Coggings",
+      "roll_num": 17718,
+      "dob": "21.02.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 7,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Physics",
+          "marks": 66,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 57,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Maths",
+          "marks": 76,
+          "teacher_name": "Koenraad Dowdam"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "first_name": "Tedman",
+      "last_name": "de Mullett",
+      "roll_num": 14637,
+      "dob": "14.08.2020",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 68,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Physics",
+          "marks": 15,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 4,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Maths",
+          "marks": 34,
+          "teacher_name": "Imelda Nel"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "first_name": "Haslett",
+      "last_name": "Quarterman",
+      "roll_num": 19398,
+      "dob": "06.11.2020",
+      "class": "A",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 43,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Physics",
+          "marks": 91,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 7,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Maths",
+          "marks": 57,
+          "teacher_name": "Emyle Abells"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "first_name": "Barron",
+      "last_name": "Halburton",
+      "roll_num": 16879,
+      "dob": "15.08.2020",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 17,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Physics",
+          "marks": 57,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 15,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Biology",
+          "marks": 52,
+          "teacher_name": "Hyman Moreby"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "first_name": "Virgie",
+      "last_name": "Shalloo",
+      "roll_num": 13282,
+      "dob": "21.08.2020",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 9,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Physics",
+          "marks": 4,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 63,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Maths",
+          "marks": 46,
+          "teacher_name": "Briney Incogna"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "first_name": "Branden",
+      "last_name": "Longmead",
+      "roll_num": 12639,
+      "dob": "23.07.2020",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 18,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Physics",
+          "marks": 40,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 52,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Maths",
+          "marks": 27,
+          "teacher_name": "Julio Adcock"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "first_name": "Letizia",
+      "last_name": "Grangier",
+      "roll_num": 18320,
+      "dob": "27.01.2021",
+      "class": "A",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 28,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Physics",
+          "marks": 17,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 15,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Maths",
+          "marks": 71,
+          "teacher_name": "Briney Incogna"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "first_name": "Jude",
+      "last_name": "Pickover",
+      "roll_num": 15901,
+      "dob": "15.05.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 46,
+          "teacher_name": "Imelda Nel"
+        },
+        {
+          "name": "Physics",
+          "marks": 74,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 84,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Biology",
+          "marks": 47,
+          "teacher_name": "Hyman Moreby"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "first_name": "Keefe",
+      "last_name": "Johnstone",
+      "roll_num": 10407,
+      "dob": "31.03.2021",
+      "class": "A",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 50,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Physics",
+          "marks": 41,
+          "teacher_name": "Hyman Moreby"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 60,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Maths",
+          "marks": 65,
+          "teacher_name": "Briney Incogna"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "first_name": "Ernaline",
+      "last_name": "Northern",
+      "roll_num": 13124,
+      "dob": "27.02.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 64,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Physics",
+          "marks": 52,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 69,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Biology",
+          "marks": 48,
+          "teacher_name": "Odelia Falkingham"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "first_name": "Karol",
+      "last_name": "Pittem",
+      "roll_num": 16309,
+      "dob": "10.11.2020",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 35,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Physics",
+          "marks": 22,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 54,
+          "teacher_name": "Hyman Moreby"
+        },
+        {
+          "name": "Maths",
+          "marks": 88,
+          "teacher_name": "Howard Oguz"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "first_name": "Jeralee",
+      "last_name": "Kaser",
+      "roll_num": 15001,
+      "dob": "29.07.2020",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 17,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Physics",
+          "marks": 94,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 50,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Maths",
+          "marks": 84,
+          "teacher_name": "Hyman Moreby"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "first_name": "Melisandra",
+      "last_name": "Peasey",
+      "roll_num": 17207,
+      "dob": "04.01.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 10,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Physics",
+          "marks": 87,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 95,
+          "teacher_name": "Imelda Nel"
+        },
+        {
+          "name": "Maths",
+          "marks": 79,
+          "teacher_name": "Julio Adcock"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "first_name": "Leanna",
+      "last_name": "Mcwhinnie",
+      "roll_num": 13508,
+      "dob": "24.01.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 44,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Physics",
+          "marks": 2,
+          "teacher_name": "Imelda Nel"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 21,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Maths",
+          "marks": 40,
+          "teacher_name": "Kerstin Thorwarth"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "first_name": "Goober",
+      "last_name": "Moine",
+      "roll_num": 18051,
+      "dob": "18.03.2021",
+      "class": "B",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 88,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Physics",
+          "marks": 42,
+          "teacher_name": "Emyle Abells"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 73,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Biology",
+          "marks": 59,
+          "teacher_name": "Kerstin Thorwarth"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "first_name": "Jannel",
+      "last_name": "Rhys",
+      "roll_num": 17415,
+      "dob": "25.09.2020",
+      "class": "B",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 90,
+          "teacher_name": "Hyman Moreby"
+        },
+        {
+          "name": "Physics",
+          "marks": 22,
+          "teacher_name": "Briney Incogna"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 25,
+          "teacher_name": "Imelda Nel"
+        },
+        {
+          "name": "Maths",
+          "marks": 23,
+          "teacher_name": "Koenraad Dowdam"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "first_name": "Alexi",
+      "last_name": "Rattenberie",
+      "roll_num": 14122,
+      "dob": "24.08.2020",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 98,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Physics",
+          "marks": 46,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 16,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Maths",
+          "marks": 88,
+          "teacher_name": "Briney Incogna"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "first_name": "Vincent",
+      "last_name": "Chape",
+      "roll_num": 19846,
+      "dob": "18.07.2020",
+      "class": "A",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 20,
+          "teacher_name": "Howard Oguz"
+        },
+        {
+          "name": "Physics",
+          "marks": 27,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 87,
+          "teacher_name": "Odelia Falkingham"
+        },
+        {
+          "name": "Biology",
+          "marks": 85,
+          "teacher_name": "Briney Incogna"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "first_name": "Barbaraanne",
+      "last_name": "Godmer",
+      "roll_num": 12476,
+      "dob": "13.03.2021",
+      "class": "C",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 78,
+          "teacher_name": "Trenna Gerty"
+        },
+        {
+          "name": "Physics",
+          "marks": 19,
+          "teacher_name": "Imelda Nel"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 71,
+          "teacher_name": "Julio Adcock"
+        },
+        {
+          "name": "Maths",
+          "marks": 26,
+          "teacher_name": "Imelda Nel"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "first_name": "Analiese",
+      "last_name": "Matiewe",
+      "roll_num": 16561,
+      "dob": "30.01.2021",
+      "class": "D",
+      "subject": [
+        {
+          "name": "English",
+          "marks": 58,
+          "teacher_name": "Kerstin Thorwarth"
+        },
+        {
+          "name": "Physics",
+          "marks": 87,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Chemistry",
+          "marks": 95,
+          "teacher_name": "Koenraad Dowdam"
+        },
+        {
+          "name": "Maths",
+          "marks": 49,
+          "teacher_name": "Howard Oguz"
+        }
+      ]
+    }
+  ],
+  "teacherData": [
+    {
+      "id": "577",
+      "name": "Rockwell Giovannetti",
+      "doj": "2019-04-29",
+      "qualification": "MBA"
+    },
+    {
+      "id": "805",
+      "name": "Deane De Ruggero",
+      "doj": "2020-05-23",
+      "qualification": "MCA"
+    },
+    {
+      "id": "860",
+      "name": "Dallas Burnand",
+      "doj": "2019-08-29",
+      "qualification": "BCA"
+    },
+    {
+      "id": "078",
+      "name": "Lola Cogdon",
+      "doj": "2018-06-30",
+      "qualification": "MBA"
+    },
+    {
+      "id": "409",
+      "name": "Tuck Langthorn",
+      "doj": "2021-02-13",
+      "qualification": "MBA"
+    },
+    {
+      "id": "102",
+      "name": "Georgeanna Klosterman",
+      "doj": "2018-08-22",
+      "qualification": "M.Sc"
+    },
+    {
+      "id": "413",
+      "name": "Robinette Caseri",
+      "doj": "2019-08-05",
+      "qualification": "MBA"
+    },
+    {
+      "id": "079",
+      "name": "Marjory Monday",
+      "doj": "2018-09-06",
+      "qualification": "B.Tech"
+    },
+    {
+      "id": "675",
+      "name": "Gav Midden",
+      "doj": "2019-08-20",
+      "qualification": "B.Sc"
+    },
+    {
+      "id": "556",
+      "name": "Morly Bemwell",
+      "doj": "2020-01-15",
+      "qualification": "BCA"
+    },
+    {
+      "id": "050",
+      "name": "Emlyn Etoile",
+      "doj": "2020-02-28",
+      "qualification": "Diploma"
+    },
+    {
+      "id": "516",
+      "name": "Angelica Calliss",
+      "doj": "2018-07-28",
+      "qualification": "BCA"
+    },
+    {
+      "id": "597",
+      "name": "Henrieta Somersett",
+      "doj": "2019-02-13",
+      "qualification": "M.Sc"
+    },
+    {
+      "id": "013",
+      "name": "Sadie Barnaby",
+      "doj": "2019-01-30",
+      "qualification": "Diploma"
+    },
+    {
+      "id": "596",
+      "name": "Marie-jeanne Kehoe",
+      "doj": "2019-02-13",
+      "qualification": "B.Tech"
+    },
+    {
+      "id": "831",
+      "name": "Dewitt Yurshev",
+      "doj": "2021-03-22",
+      "qualification": "B.Sc"
+    },
+    {
+      "id": "468",
+      "name": "Staffard Kuschek",
+      "doj": "2019-10-11",
+      "qualification": "MBA"
+    },
+    {
+      "id": "638",
+      "name": "Kevina Casham",
+      "doj": "2018-12-18",
+      "qualification": "MBA"
+    },
+    {
+      "id": "908",
+      "name": "Wilow Lyst",
+      "doj": "2019-02-18",
+      "qualification": "MBA"
+    },
+    {
+      "id": "921",
+      "name": "Melisenda Sparrowhawk",
+      "doj": "2018-10-27",
+      "qualification": "B.Sc"
+    }
+  ],
+  "classData": [
+    {
+      "id": 1,
+      "class": "A",
+      "English": [
+        "Rockwell Giovannetti"
+      ],
+      "Physics": [],
+      "Chemistry": [],
+      "Maths": [],
+      "Biology": []
+    },
+    {
+      "id": 2,
+      "class": "B",
+      "English": [
+        "Rockwell Giovannetti"
+      ],
+      "Physics": [],
+      "Chemistry": [],
+      "Maths": [],
+      "Biology": []
+    },
+    {
+      "id": 3,
+      "class": "C",
+      "English": [],
+      "Physics": [],
+      "Chemistry": [],
+      "Maths": [],
+      "Biology": []
+    },
+    {
+      "id": 4,
+      "class": "D",
+      "English": [],
+      "Physics": [],
+      "Chemistry": [],
+      "Maths": [],
+      "Biology": []
+    }
+  ]
+}
